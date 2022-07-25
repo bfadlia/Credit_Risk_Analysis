@@ -9,7 +9,7 @@ Different Machine Learning techniques are used to train and evaluate the data wi
 ## Results: 
 
 - Naive Random Oversampling results: Our balanced accuracy test it 62%, the precision for the high_risk has a very low positivity at 1% and the recall is 60%
-- 
+
 ![IMAGE_DESCRIPTION](/Images/naive.png)
 
 
