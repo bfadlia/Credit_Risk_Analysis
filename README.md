@@ -9,21 +9,32 @@ Different Machine Learning techniques are used to train and evaluate the data wi
 ## Results: 
 
 - Naive Random Oversampling results: Our balanced accuracy test it 62%, the precision for the high_risk has a very low positivity at 1% and the recall is 60%
+- 
 ![IMAGE_DESCRIPTION](/Images/naive.png)
 
+
 - SMOTE oversampling results: the accuracy score is 65%, the precision for the high_risk loans has a low positvity again at 1% and recall is 64% overall
+
 ![IMAGE_DESCRIPTION](/Images/under.png)
 
+
 - Undersampling results: balanced accuracy score is 51% overall, the precision is at 99% and the recall is 59%
+
 ![IMAGE_DESCRIPTION](/Images/smote.png)
 
+
 - Combination(over and undersampling) results: balanced accuracy score is 64% the precision is 99% and the recall is 57% overall
+
 ![IMAGE_DESCRIPTION](/Images/mixed.png)
 
-- Balanced Random Forest Classifier results: the accuracy score is 79% the overall precision is 99% and the recall is 87%
+
+-  Balanced Random Forest Classifier results: the accuracy score is 79% the overall precision is 99% and the recall is 87%
+
 ![IMAGE_DESCRIPTION](/Images/forest.png)
 
+
 - Easy Ensemble AdaBoost Classifier results: the accuracy score is 92.5 the precision is 99% and the recall is 94%
+
 ![IMAGE_DESCRIPTION](/Images/ensemble.png)
 
 ## Summary: 
